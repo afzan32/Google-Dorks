@@ -1,6 +1,3 @@
-# Google-Dorks
-A categorized collection with powerful tool for Google Dorks for ethical hacking, penetration testing, and open-source intelligence (OSINT).
-
 # Google Dorks
 
 This repository contains a categorized list of powerful **Google Dorks** used in ethical hacking, penetration testing, OSINT (Open Source Intelligence), and bug bounty hunting.
