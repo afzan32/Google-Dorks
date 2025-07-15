@@ -1,0 +1,514 @@
+
+[+] Dork: site:np.gov.lk inurl:login | Engine: google | Time: 2025-07-12 23:38:31
+
+
+
+[+] Dork: site:moe.gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-12 23:39:24
+https://digitaldata.moe.gov.lk/user/download.php
+https://moe.gov.lk/wp-content/uploads/2020/08/meet.gov_.lk-User-Manual-v7.0.pdf
+https://nspt.moe.gov.lk/uploads/instructions/instructions_si.pdf
+
+[+] Dork: site:moe.gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-12 23:39:24
+https://digitaldata.moe.gov.lk/user/download.php
+https://moe.gov.lk/wp-content/uploads/2020/08/meet.gov_.lk-User-Manual-v7.0.pdf
+https://nspt.moe.gov.lk/uploads/instructions/instructions_si.pdf
+
+[+] Dork: site:moe.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-12 23:40:29
+
+
+
+
+[+] Dork: site:moe.gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-12 23:40:29
+
+[+] Dork: site:moe.gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-12 23:41:05
+
+
+
+
+[+] Dork: site:moe.gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-07-12 23:41:05
+
+[+] Dork: site:moe.gov.lk inurl:login | Engine: google | Time: 2025-07-12 23:41:42
+https://dot.moe.gov.lk/PHP/login.php
+https://sis2.moe.gov.lk/login
+https://nspt.moe.gov.lk/login
+
+[+] Dork: site:moe.gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-12 23:41:42
+https://dot.moe.gov.lk/PHP/login.php
+https://sis2.moe.gov.lk/login
+https://nspt.moe.gov.lk/login
+
+[+] Dork: site:moe.gov.lk filetype:env | Engine: google | Time: 2025-07-12 23:42:46
+
+[+] Dork: site:moe.gov.lk filetype:env | Engine: duckduckgo | Time: 2025-07-12 23:42:46
+
+[+] Dork: site:moe.gov.lk filetype:log | Engine: google | Time: 2025-07-12 23:42:50
+
+[+] Dork: site:moe.gov.lk filetype:log | Engine: duckduckgo | Time: 2025-07-12 23:42:50
+
+[+] Dork: site:moe.gov.lk filetype:sql | Engine: google | Time: 2025-07-12 23:42:54
+
+[+] Dork: site:moe.gov.lk filetype:sql | Engine: duckduckgo | Time: 2025-07-12 23:42:54
+
+[+] Dork: site:moe.gov.lk filetype:xml | Engine: google | Time: 2025-07-12 23:42:59
+
+[+] Dork: site:moe.gov.lk filetype:xml | Engine: duckduckgo | Time: 2025-07-12 23:42:59
+https://moe.gov.lk/wp-sitemap.xml
+
+[+] Dork: site:moe.gov.lk filetype:json intext:token | Engine: google | Time: 2025-07-12 23:43:13
+
+[+] Dork: site:moe.gov.lk filetype:json intext:token | Engine: duckduckgo | Time: 2025-07-12 23:43:13
+
+[+] Dork: site:moe.gov.lk filetype:txt intext:password | Engine: google | Time: 2025-07-12 23:43:17
+
+[+] Dork: site:moe.gov.lk filetype:txt intext:password | Engine: duckduckgo | Time: 2025-07-12 23:43:17
+https://e-thaksalawa.moe.gov.lk/content/software/username_password.txt
+
+[+] Dork: site:moe.gov.lk intext:"database password" | Engine: google | Time: 2025-07-12 23:43:31
+
+[+] Dork: site:moe.gov.lk intext:"database password" | Engine: duckduckgo | Time: 2025-07-12 23:43:31
+https://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22484/mod_resource/content/1/e11tim33.pdf
+
+[+] Dork: site:moe.gov.lk intext:"DB_PASSWORD" | Engine: google | Time: 2025-07-12 23:43:45
+
+[+] Dork: site:moe.gov.lk intext:"DB_PASSWORD" | Engine: duckduckgo | Time: 2025-07-12 23:43:45
+
+[+] Dork: site:moe.gov.lk intext:"confidential do not distribute" | Engine: google | Time: 2025-07-12 23:43:50
+
+[+] Dork: site:moe.gov.lk intext:"confidential do not distribute" | Engine: duckduckgo | Time: 2025-07-12 23:43:50
+https://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22484/mod_resource/content/1/e11tim33.pdf
+
+[+] Dork: site:moe.gov.lk filetype:bak | Engine: google | Time: 2025-07-12 23:44:05
+
+[+] Dork: site:moe.gov.lk filetype:bak | Engine: duckduckgo | Time: 2025-07-12 23:44:05
+
+[+] Dork: site:moe.gov.lk filetype:old | Engine: google | Time: 2025-07-12 23:44:09
+
+[+] Dork: site:moe.gov.lk filetype:old | Engine: duckduckgo | Time: 2025-07-12 23:44:09
+
+[+] Dork: site:moe.gov.lk filetype:backup | Engine: google | Time: 2025-07-12 23:44:14
+
+[+] Dork: site:moe.gov.lk filetype:backup | Engine: duckduckgo | Time: 2025-07-12 23:44:14
+
+[+] Dork: site:moe.gov.lk inurl:"/phpinfo.php" | Engine: google | Time: 2025-07-12 23:44:17
+
+[+] Dork: site:moe.gov.lk inurl:"/phpinfo.php" | Engine: duckduckgo | Time: 2025-07-12 23:44:17
+
+[+] Dork: site:moe.gov.lk inurl:"/test" | Engine: google | Time: 2025-07-12 23:44:22
+
+[+] Dork: site:moe.gov.lk inurl:"/test" | Engine: duckduckgo | Time: 2025-07-12 23:44:22
+https://moe.gov.lk/test-thu/
+https://moe.gov.lk/ministry-2/ministry-structure/branch-news/test/
+https://moe.gov.lk/test-sl/
+
+[+] Dork: site:moe.gov.lk intitle:"index of" "backup" | Engine: google | Time: 2025-07-12 23:44:57
+
+[+] Dork: site:moe.gov.lk intitle:"index of" "backup" | Engine: duckduckgo | Time: 2025-07-12 23:44:57
+
+[+] Dork: site:moe.gov.lk intitle:"index of" "config" | Engine: google | Time: 2025-07-12 23:45:01
+
+[+] Dork: site:moe.gov.lk intitle:"index of" "config" | Engine: duckduckgo | Time: 2025-07-12 23:45:01
+
+[+] Dork: site:moe.gov.lk intitle:"index of" "admin" | Engine: google | Time: 2025-07-12 23:45:06
+
+[+] Dork: site:moe.gov.lk intitle:"index of" "admin" | Engine: duckduckgo | Time: 2025-07-12 23:45:06
+
+[+] Dork: site:moe.gov.lk intitle:"index of" ".git" | Engine: google | Time: 2025-07-12 23:45:10
+
+[+] Dork: site:moe.gov.lk intitle:"index of" ".git" | Engine: duckduckgo | Time: 2025-07-12 23:45:10
+
+[+] Dork: site:moe.gov.lk filetype:cfg | Engine: google | Time: 2025-07-12 23:45:15
+
+[+] Dork: site:moe.gov.lk filetype:cfg | Engine: duckduckgo | Time: 2025-07-12 23:45:15
+
+[+] Dork: site:moe.gov.lk filetype:ini | Engine: google | Time: 2025-07-12 23:45:19
+
+[+] Dork: site:moe.gov.lk filetype:ini | Engine: duckduckgo | Time: 2025-07-12 23:45:19
+
+[+] Dork: site:moe.gov.lk intitle:"admin panel" | Engine: google | Time: 2025-07-12 23:45:23
+
+[+] Dork: site:moe.gov.lk intitle:"admin panel" | Engine: duckduckgo | Time: 2025-07-12 23:45:23
+
+[+] Dork: site:moe.gov.lk inurl:"/webmail" | Engine: google | Time: 2025-07-12 23:45:28
+
+[+] Dork: site:moe.gov.lk inurl:"/webmail" | Engine: duckduckgo | Time: 2025-07-12 23:45:28
+
+[+] Dork: site:moe.gov.lk intitle:"webmail login" | Engine: google | Time: 2025-07-12 23:45:32
+
+[+] Dork: site:moe.gov.lk intitle:"webmail login" | Engine: duckduckgo | Time: 2025-07-12 23:45:32
+
+[+] Dork: site:moe.gov.lk filetype:csv intext:email | Engine: google | Time: 2025-07-12 23:45:37
+
+[+] Dork: site:moe.gov.lk filetype:csv intext:email | Engine: duckduckgo | Time: 2025-07-12 23:45:37
+
+[+] Dork: site:moe.gov.lk filetype:docx intext:"project confidential" | Engine: google | Time: 2025-07-12 23:45:41
+
+[+] Dork: site:moe.gov.lk filetype:docx intext:"project confidential" | Engine: duckduckgo | Time: 2025-07-12 23:45:41
+
+[+] Dork: site:moe.gov.lk filetype:xlsx intext:"employee list" | Engine: google | Time: 2025-07-12 23:45:45
+
+[+] Dork: site:moe.gov.lk filetype:xlsx intext:"employee list" | Engine: duckduckgo | Time: 2025-07-12 23:45:45
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-12 23:49:48
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-12 23:49:48
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-12 23:49:52
+
+[+] Dork: site:luxury.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-12 23:50:23
+
+[+] Dork: site:luxury.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-12 23:50:23
+
+[+] Dork: site:luxury.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-12 23:50:28
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-12 23:56:17
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-12 23:56:17
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-12 23:56:21
+
+[+] Dork: site:2 inurl:login | Engine: google | Time: 2025-07-14 17:15:47
+
+
+[+] Dork: site:hjhui filetype:pdf intext:password | Engine: google | Time: 2025-07-14 17:18:17
+
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk inurl:login | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:env | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:env | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:log | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:log | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:sql | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:sql | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:xml | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:xml | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:json intext:token | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:json intext:token | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:txt intext:password | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:txt intext:password | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intext:"database password" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intext:"database password" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intext:"DB_PASSWORD" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intext:"DB_PASSWORD" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intext:"confidential do not distribute" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intext:"confidential do not distribute" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:bak | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:bak | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:old | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:old | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:backup | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk filetype:backup | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk inurl:"/phpinfo.php" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk inurl:"/phpinfo.php" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk inurl:"/test" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk inurl:"/test" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intitle:"index of" "backup" | Engine: google | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intitle:"index of" "backup" | Engine: duckduckgo | Time: 2025-07-14 17:25:21
+
+[+] Dork: site:media.gov.lk intitle:"index of" "config" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"index of" "config" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"index of" "admin" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"index of" "admin" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"index of" ".git" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"index of" ".git" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:cfg | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:cfg | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:ini | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:ini | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"admin panel" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"admin panel" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk inurl:"/webmail" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk inurl:"/webmail" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"webmail login" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk intitle:"webmail login" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:csv intext:email | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:csv intext:email | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:docx intext:"project confidential" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:docx intext:"project confidential" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:xlsx intext:"employee list" | Engine: google | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:xlsx intext:"employee list" | Engine: duckduckgo | Time: 2025-07-14 17:25:22
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-14 17:28:41
+
+
+
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-14 17:28:41
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-14 17:29:16
+
+
+
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-14 17:29:16
+
+[+] Dork: site:media.gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-14 17:29:51
+
+
+
+[+] Dork: site:media.gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-07-14 17:29:51
+
+[+] Dork: site:media.gov.lk inurl:login | Engine: google | Time: 2025-07-14 17:30:21
+
+
+
+[+] Dork: site:media.gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-14 17:30:21
+
+[+] Dork: site:media.gov.lk filetype:env | Engine: google | Time: 2025-07-14 17:30:47
+
+[+] Dork: site:media.gov.lk filetype:env | Engine: duckduckgo | Time: 2025-07-14 17:30:47
+
+[+] Dork: site:media.gov.lk filetype:log | Engine: google | Time: 2025-07-14 17:30:49
+
+[+] Dork: site:media.gov.lk filetype:log | Engine: duckduckgo | Time: 2025-07-14 17:30:49
+
+[+] Dork: site:media.gov.lk filetype:sql | Engine: google | Time: 2025-07-14 17:30:52
+
+[+] Dork: site:media.gov.lk filetype:sql | Engine: duckduckgo | Time: 2025-07-14 17:30:52
+
+[+] Dork: site:media.gov.lk filetype:xml | Engine: google | Time: 2025-07-14 17:30:54
+
+[+] Dork: site:media.gov.lk filetype:xml | Engine: duckduckgo | Time: 2025-07-14 17:30:54
+
+[+] Dork: site:media.gov.lk filetype:json intext:token | Engine: google | Time: 2025-07-14 17:30:57
+
+[+] Dork: site:media.gov.lk filetype:json intext:token | Engine: duckduckgo | Time: 2025-07-14 17:30:57
+
+[+] Dork: site:media.gov.lk filetype:txt intext:password | Engine: google | Time: 2025-07-14 17:30:59
+
+[+] Dork: site:media.gov.lk filetype:txt intext:password | Engine: duckduckgo | Time: 2025-07-14 17:30:59
+
+[+] Dork: site:media.gov.lk intext:"database password" | Engine: google | Time: 2025-07-14 17:31:01
+
+[+] Dork: site:media.gov.lk intext:"database password" | Engine: duckduckgo | Time: 2025-07-14 17:31:01
+
+[+] Dork: site:media.gov.lk intext:"DB_PASSWORD" | Engine: google | Time: 2025-07-14 17:31:03
+
+[+] Dork: site:media.gov.lk intext:"DB_PASSWORD" | Engine: duckduckgo | Time: 2025-07-14 17:31:03
+
+[+] Dork: site:media.gov.lk intext:"confidential do not distribute" | Engine: google | Time: 2025-07-14 17:31:06
+
+[+] Dork: site:media.gov.lk intext:"confidential do not distribute" | Engine: duckduckgo | Time: 2025-07-14 17:31:06
+
+[+] Dork: site:media.gov.lk filetype:bak | Engine: google | Time: 2025-07-14 17:31:09
+
+[+] Dork: site:media.gov.lk filetype:bak | Engine: duckduckgo | Time: 2025-07-14 17:31:09
+
+[+] Dork: site:media.gov.lk filetype:old | Engine: google | Time: 2025-07-14 17:31:11
+
+[+] Dork: site:media.gov.lk filetype:old | Engine: duckduckgo | Time: 2025-07-14 17:31:11
+
+[+] Dork: site:media.gov.lk filetype:backup | Engine: google | Time: 2025-07-14 17:31:13
+
+[+] Dork: site:media.gov.lk filetype:backup | Engine: duckduckgo | Time: 2025-07-14 17:31:13
+
+[+] Dork: site:media.gov.lk inurl:"/phpinfo.php" | Engine: google | Time: 2025-07-14 17:31:15
+
+[+] Dork: site:media.gov.lk inurl:"/phpinfo.php" | Engine: duckduckgo | Time: 2025-07-14 17:31:15
+
+[+] Dork: site:media.gov.lk inurl:"/test" | Engine: google | Time: 2025-07-14 17:31:18
+
+[+] Dork: site:media.gov.lk inurl:"/test" | Engine: duckduckgo | Time: 2025-07-14 17:31:18
+https://media.gov.lk/media-gallery/latest-news/2269-practical-test-for-visual-and-performing-arts-students
+https://www.media.gov.lk/media-gallery/latest-news/1039-sri-lanka-china-relations-have-stood-the-test-of-time-president
+
+[+] Dork: site:media.gov.lk intitle:"index of" "backup" | Engine: google | Time: 2025-07-14 17:31:41
+
+[+] Dork: site:media.gov.lk intitle:"index of" "backup" | Engine: duckduckgo | Time: 2025-07-14 17:31:41
+
+[+] Dork: site:media.gov.lk intitle:"index of" "config" | Engine: google | Time: 2025-07-14 17:31:44
+
+[+] Dork: site:media.gov.lk intitle:"index of" "config" | Engine: duckduckgo | Time: 2025-07-14 17:31:44
+
+[+] Dork: site:media.gov.lk intitle:"index of" "admin" | Engine: google | Time: 2025-07-14 17:31:47
+
+[+] Dork: site:media.gov.lk intitle:"index of" "admin" | Engine: duckduckgo | Time: 2025-07-14 17:31:47
+
+[+] Dork: site:media.gov.lk intitle:"index of" ".git" | Engine: google | Time: 2025-07-14 17:31:50
+
+[+] Dork: site:media.gov.lk intitle:"index of" ".git" | Engine: duckduckgo | Time: 2025-07-14 17:31:50
+
+[+] Dork: site:media.gov.lk filetype:cfg | Engine: google | Time: 2025-07-14 17:31:54
+
+[+] Dork: site:media.gov.lk filetype:cfg | Engine: duckduckgo | Time: 2025-07-14 17:31:54
+
+[+] Dork: site:media.gov.lk filetype:ini | Engine: google | Time: 2025-07-14 17:31:56
+
+[+] Dork: site:media.gov.lk filetype:ini | Engine: duckduckgo | Time: 2025-07-14 17:31:56
+
+[+] Dork: site:media.gov.lk intitle:"admin panel" | Engine: google | Time: 2025-07-14 17:31:58
+
+[+] Dork: site:media.gov.lk intitle:"admin panel" | Engine: duckduckgo | Time: 2025-07-14 17:31:58
+
+[+] Dork: site:media.gov.lk inurl:"/webmail" | Engine: google | Time: 2025-07-14 17:32:01
+
+[+] Dork: site:media.gov.lk inurl:"/webmail" | Engine: duckduckgo | Time: 2025-07-14 17:32:01
+
+[+] Dork: site:media.gov.lk intitle:"webmail login" | Engine: google | Time: 2025-07-14 17:32:04
+
+[+] Dork: site:media.gov.lk intitle:"webmail login" | Engine: duckduckgo | Time: 2025-07-14 17:32:04
+
+[+] Dork: site:media.gov.lk filetype:csv intext:email | Engine: google | Time: 2025-07-14 17:32:07
+
+[+] Dork: site:media.gov.lk filetype:csv intext:email | Engine: duckduckgo | Time: 2025-07-14 17:32:07
+
+[+] Dork: site:media.gov.lk filetype:docx intext:"project confidential" | Engine: google | Time: 2025-07-14 17:32:16
+
+[+] Dork: site:media.gov.lk filetype:docx intext:"project confidential" | Engine: duckduckgo | Time: 2025-07-14 17:32:16
+
+[+] Dork: site:media.gov.lk filetype:xlsx intext:"employee list" | Engine: google | Time: 2025-07-14 17:32:19
+
+[+] Dork: site:media.gov.lk filetype:xlsx intext:"employee list" | Engine: duckduckgo | Time: 2025-07-14 17:32:19
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk inurl:login | Engine: google | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-14 19:56:10
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-14 20:00:04
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-14 20:00:04
+https://www.ird.gov.lk/si/eServices/Lists/Registration/Attachments/9/Quick_Guide_-_TIN-PIN_SSID-PW_Maintenance+v1.0.pdf
+https://www.gic.gov.lk/gic/pdf/Internet+Banking+Repin+And+Link+Form.pdf
+https://healthdept.nc.gov.lk/wp-content/uploads/2021/07/Dashboard.pdf
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-14 20:01:07
+
+
+
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-14 20:01:07
+https://www.excise.gov.lk/images/bid/Set01upto2025.02.14.xls
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-14 20:02:00
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-07-14 20:02:00
+
+[+] Dork: site:gov.lk inurl:login | Engine: google | Time: 2025-07-14 20:02:36
+https://www.niosh.gov.lk/index.php?option=com_users&view=login&Itemid=112&lang=en
+http://www.auditorgeneral.gov.lk/web/index.php/en/login
+http://www.vri.gov.lk/test/vri_fs/login/itc/login-form_itc.php
+
+[+] Dork: site:gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-14 20:02:36
+https://www.niosh.gov.lk/index.php?option=com_users&view=login&Itemid=112&lang=en
+http://www.auditorgeneral.gov.lk/web/index.php/en/login
+https://www.customs.gov.lk/login/
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-14 22:39:26
+
+
+
+
+[+] Dork: site:media.gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-14 22:39:26
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-14 22:39:59
+
+
+
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-14 22:39:59
+
+[+] Dork: site:media.gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-14 22:40:31
+
+
+
+
+[+] Dork: site:health.gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-07-14 22:41:16
+https://www.health.gov.lk/wp-content/uploads/2023/11/Information-security-gudeline_1.0-2.3.23.pdf
+https://www.health.gov.lk/wp-content/uploads/2022/08/Batch326.pdf
+https://nccp.health.gov.lk/nccp/public/storage/post/pdfs/Can%20Reg%205%20Manual%20-%20Version%201.0%20%20(13.06.2021).pdf
+
+[+] Dork: site:health.gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-07-14 22:41:16
+https://www.health.gov.lk/wp-content/uploads/2023/11/Information-security-gudeline_1.0-2.3.23.pdf
+https://nccp.health.gov.lk/nccp/public/storage/post/pdfs/Can+Reg+5+Manual+-+Version+1.0++(13.06.2021).pdf
+https://www.health.gov.lk/wp-content/uploads/2022/08/Batch733.pdf
+
+[+] Dork: site:health.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-07-14 22:42:18
+
+[+] Dork: site:health.gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-07-14 22:42:18
+
+[+] Dork: site:health.gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-07-14 22:42:20
+
+[+] Dork: site:health.gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-07-14 22:42:20
+
+[+] Dork: site:health.gov.lk inurl:login | Engine: google | Time: 2025-07-14 22:42:22
+
+[+] Dork: site:health.gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-14 22:42:22
+http://www.previousmoh.health.gov.lk/CMS/cmsmoh1/login.php
+https://epinet.health.gov.lk/dhis/dhis-web-login/
+https://quality.health.gov.lk/index.php?option=com_users&view=login&Itemid=124&lang=en

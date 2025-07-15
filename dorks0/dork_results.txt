@@ -1,0 +1,30 @@
+
+[+] Dork: site:.gov.lk inurl:login | Engine: google | Time: 2025-07-12 21:33:37
+
+[+] Dork: site:.gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-12 21:33:37
+https://www.niosh.gov.lk/index.php?option=com_users&view=login&Itemid=112&lang=en
+http://www.auditorgeneral.gov.lk/web/index.php/en/login
+
+[+] Dork: site:.gov.lk filetype:pdf | Engine: google | Time: 2025-07-12 21:33:46
+
+[+] Dork: site:.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-07-12 21:33:46
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:.gov.lk inurl:login | Engine: google | Time: 2025-07-12 21:36:15
+
+[+] Dork: site:.gov.lk inurl:login | Engine: duckduckgo | Time: 2025-07-12 21:36:15
+https://www.niosh.gov.lk/index.php?option=com_users&view=login&Itemid=112&lang=en
+http://www.auditorgeneral.gov.lk/web/index.php/en/login
+
+[+] Dork: site:.gov.lk filetype:pdf | Engine: google | Time: 2025-07-12 21:36:23
+
+[+] Dork: site:.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-07-12 21:36:23
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:.gov.lk intext:"username" | Engine: google | Time: 2025-07-12 21:36:31
+
+[+] Dork: site:.gov.lk intext:"username" | Engine: duckduckgo | Time: 2025-07-12 21:36:31
+http://www.ndrsc.gov.lk/web/index.php?option=com_user&view=remind&lang=en
+https://samurdhi.gov.lk/web/index.php/en/component/user/remind.html

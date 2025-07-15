@@ -1,0 +1,30 @@
+inurl:login
+filetype:pdf intext:"student id"
+filetype:xls intext:"email" intext:"password"
+filetype:doc intext:"exam question"
+filetype:env
+filetype:log
+filetype:sql
+filetype:xml
+filetype:json intext:token
+filetype:txt intext:password
+intext:"database password"
+intext:"DB_PASSWORD"
+intext:"confidential exam"
+filetype:bak
+filetype:old
+filetype:backup
+intitle:"index of" "result"
+intitle:"index of" "grades"
+intitle:"index of" "research"
+intitle:"index of" "admin"
+intitle:"index of" ".git"
+filetype:cfg
+filetype:ini
+intitle:"admin panel"
+inurl:"/webmail"
+intitle:"webmail login"
+filetype:csv intext:email
+filetype:docx intext:"internal marks"
+filetype:xlsx intext:"student list"
+filetype:pdf intext:"research abstract"

@@ -1,0 +1,10 @@
+intitle:"index of /"
+intitle:"index of" +passwd
+intitle:"index of /admin"
+intitle:"index of /ftp"
+intitle:"index of /backup"
+intitle:"index of /private"
+intitle:"index of /mail"
+intitle:"index of /conf"
+intitle:"index of /xampp"
+intitle:"index of /logs"

@@ -1,0 +1,4 @@
+filetype:pdf intext:password
+filetype:xls intext:"email" intext:"password"
+filetype:doc intext:confidential
+inurl:login
