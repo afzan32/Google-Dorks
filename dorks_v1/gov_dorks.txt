@@ -1,0 +1,10 @@
+filetype:pdf
+filetype:doc
+filetype:xls
+filetype:ppt
+filetype:txt
+filetype:xml
+filetype:json
+filetype:csv
+filetype:sql
+filetype:log

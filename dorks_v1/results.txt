@@ -1,0 +1,8 @@
+Dorking Results - 2025-09-09 17:22:16
+Target Domain: finance.gov.lk
+Dork Type: government
+================================================================================
+
+[+] Dork: site:finance.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-09 17:22:16
+Found 0 results:
+--------------------------------------------------------------------------------
