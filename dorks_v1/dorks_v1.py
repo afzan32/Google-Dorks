@@ -93,10 +93,12 @@ def bing_search(query, num_results=3):
         
         resp = session.get(url, timeout=15)
         resp.raise_for_status()
+        print(resp.text[:1000]) 
         soup = BeautifulSoup(resp.text, "html.parser")
         
         # Updated selectors for Bing search results
         selectors = [
+            '#b_results > li > div.b_tpcn > a',
             'li.b_algo h2 a',
             'ol#b_results li h2 a',
             'li.b_algo .b_title a'

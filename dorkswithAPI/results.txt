@@ -1,0 +1,181 @@
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: google | Time: 2025-09-11 22:27:08
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-11 22:27:08
+http://media.gov.lk/images/pdf_word/Asi_Disi_Scholarships_Advertisement_2016.pdf
+http://media.gov.lk/images/pdf_word/Purchase_Equipment_English.pdf
+https://media.gov.lk/images/proactive_disclosure/Action_Plan__2025.pdf
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: bing | Time: 2025-09-11 22:27:08
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: yahoo | Time: 2025-09-11 22:27:08
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-09-11 22:27:56
+
+[+] Dork: site:media.gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-09-11 22:27:56
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: google | Time: 2025-09-11 22:31:50
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-11 22:31:50
+http://media.gov.lk/images/pdf_word/Asi_Disi_Scholarships_Advertisement_2016.pdf
+http://media.gov.lk/images/pdf_word/Purchase_Equipment_English.pdf
+https://media.gov.lk/images/proactive_disclosure/Action_Plan__2025.pdf
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: google | Time: 2025-09-11 22:34:13
+http://media.gov.lk/images/pdf_word/guide_to_media.pdf
+https://media.gov.lk/images/pdf_word/Television_and_Radio_License_issued_from_Year_1991_to_2015_English.pdf
+https://tamil.media.gov.lk/images/pdf_word/media_ethics.pdf
+
+[+] Dork: site:media.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-11 22:34:13
+http://media.gov.lk/images/pdf_word/Asi_Disi_Scholarships_Advertisement_2016.pdf
+http://media.gov.lk/images/pdf_word/Purchase_Equipment_English.pdf
+https://media.gov.lk/images/proactive_disclosure/Action_Plan__2025.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: google | Time: 2025-09-12 08:07:51
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-12 08:07:51
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: bing | Time: 2025-09-12 08:07:51
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: yahoo | Time: 2025-09-12 08:07:51
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-09-12 08:08:41
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-09-12 08:08:41
+https://excise.gov.lk/images/bid/Set01upto2025.02.14.xls
+
+[+] Dork: site:gov,lk filetype:pdf | Engine: google | Time: 2025-09-12 08:19:31
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://slmc.gov.lk/images/2024/Examinations/ERPM_New_guidelines.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: google | Time: 2025-09-12 08:19:44
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-12 08:19:44
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: bing | Time: 2025-09-12 08:19:44
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: yahoo | Time: 2025-09-12 08:19:44
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: google | Time: 2025-09-12 08:22:27
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-12 08:22:27
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: bing | Time: 2025-09-12 08:22:27
+https://outlook.live.com/
+https://www.microsoft.com/fr-ca/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=04db5eb333236ca1091e48d632b46d98
+https://m.hotmail.com/mail/?bO=1
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: yahoo | Time: 2025-09-12 08:22:27
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-09-12 08:23:26
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-09-12 08:23:26
+https://excise.gov.lk/images/bid/Set01upto2025.02.14.xls
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: bing | Time: 2025-09-12 08:23:26
+https://www.reddit.com/r/Bandlab/top/?t=all
+https://www.reddit.com/r/Bandlab/comments/ux4aca/lets_share_custom_vocal_presets/
+https://www.reddit.com/r/Bandlab/comments/vpa16n/no_audio_input_with_bandlab_please_help/
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: yahoo | Time: 2025-09-12 08:23:26
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-09-12 08:24:30
+http://erd.cbsl.gov.lk/presentation/cms/resources/sdds_component/metadata/Producer%20prices%20Index%20(PPI).doc
+https://ereg.customs.gov.lk/public/files/emanifest/VPN%20application%20forms%20(M4,M5).doc
+https://ereg.customs.gov.lk/public/files/emanifest/E%20Manifest%20Application%20Forms%20(M1,M2,M3).doc
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-09-12 08:24:30
+http://www.gic.gov.lk/gic/pdf/FIR.doc
+https://www.aidscontrol.gov.lk/images/circulars/protocol_hiv_testing_for_central_opd_number.doc
+https://www.aidscontrol.gov.lk/images/std_forms/pims_male_form_version.doc
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: bing | Time: 2025-09-12 08:24:30
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: yahoo | Time: 2025-09-12 08:24:30
+
+[+] Dork: site:gov.lk inurl:login | Engine: google | Time: 2025-09-12 08:25:36
+https://eservices.immigration.gov.lk/vs/login.php
+https://www.eta.gov.lk/etaagent/visaag/Login.jsp
+https://www.treasury.gov.lk/web/integrated-treasury-management-information-system/section/login%20for%20itmis
+
+[+] Dork: site:gov.lk inurl:login | Engine: duckduckgo | Time: 2025-09-12 08:25:36
+https://ecoo.doc.gov.lk/auth/login
+https://www.treasury.gov.lk/web/integrated-treasury-management-information-system/section/login+for+itmis
+https://auditorgeneral.gov.lk/web/index.php/en/login
+
+[+] Dork: site:gov.lk inurl:login | Engine: bing | Time: 2025-09-12 08:25:36
+
+[+] Dork: site:gov.lk inurl:login | Engine: yahoo | Time: 2025-09-12 08:25:36
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: google | Time: 2025-09-12 08:35:46
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-12 08:35:46
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: bing | Time: 2025-09-12 08:35:46
+https://outlook.live.com/
+https://www.microsoft.com/fr-ca/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=04db5eb333236ca1091e48d632b46d98
+https://m.hotmail.com/mail/?bO=1
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: yahoo | Time: 2025-09-12 08:35:46
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-09-12 08:36:37
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-09-12 08:36:37
+https://excise.gov.lk/images/bid/Set01upto2025.02.14.xls
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: bing | Time: 2025-09-12 08:36:37
+https://www.reddit.com/r/Bandlab/top/?t=all
+https://www.reddit.com/r/Bandlab/comments/ux4aca/lets_share_custom_vocal_presets/
+https://www.reddit.com/r/Bandlab/comments/vpa16n/no_audio_input_with_bandlab_please_help/
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: yahoo | Time: 2025-09-12 08:36:37
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-09-12 08:37:24
+http://erd.cbsl.gov.lk/presentation/cms/resources/sdds_component/metadata/Producer%20prices%20Index%20(PPI).doc
+https://ereg.customs.gov.lk/public/files/emanifest/VPN%20application%20forms%20(M4,M5).doc
+https://ereg.customs.gov.lk/public/files/emanifest/E%20Manifest%20Application%20Forms%20(M1,M2,M3).doc
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-09-12 08:37:24
+http://www.gic.gov.lk/gic/pdf/FIR.doc
+https://www.aidscontrol.gov.lk/images/circulars/protocol_hiv_testing_for_central_opd_number.doc
+https://www.aidscontrol.gov.lk/images/std_forms/pims_male_form_version.doc
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: bing | Time: 2025-09-12 08:37:24
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: yahoo | Time: 2025-09-12 08:37:24
+
+[+] Dork: site:gov.lk inurl:login | Engine: google | Time: 2025-09-12 08:38:13
+https://eservices.immigration.gov.lk/vs/login.php
+https://www.eta.gov.lk/etaagent/visaag/Login.jsp
+https://www.treasury.gov.lk/web/integrated-treasury-management-information-system/section/login%20for%20itmis
+
+[+] Dork: site:gov.lk inurl:login | Engine: duckduckgo | Time: 2025-09-12 08:38:13
+https://ecoo.doc.gov.lk/auth/login
+https://www.treasury.gov.lk/web/integrated-treasury-management-information-system/section/login+for+itmis
+https://auditorgeneral.gov.lk/web/index.php/en/login
+
+[+] Dork: site:gov.lk inurl:login | Engine: bing | Time: 2025-09-12 08:38:13
+
+[+] Dork: site:gov.lk inurl:login | Engine: yahoo | Time: 2025-09-12 08:38:13

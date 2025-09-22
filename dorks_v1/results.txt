@@ -1,8 +1,22 @@
-Dorking Results - 2025-09-09 17:22:16
-Target Domain: finance.gov.lk
+Dorking Results - 2025-09-11 20:41:45
+Target Domain: gov.lk
 Dork Type: government
 ================================================================================
 
-[+] Dork: site:finance.gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-09 17:22:16
+[+] Dork: site:gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-11 20:41:45
+Found 2 results:
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+--------------------------------------------------------------------------------
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: bing | Time: 2025-09-11 20:41:45
+Found 0 results:
+--------------------------------------------------------------------------------
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: yahoo | Time: 2025-09-11 20:41:45
+Found 0 results:
+--------------------------------------------------------------------------------
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: startpage | Time: 2025-09-11 20:41:45
 Found 0 results:
 --------------------------------------------------------------------------------
