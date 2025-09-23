@@ -517,3 +517,21 @@ https://quality.health.gov.lk/index.php?option=com_users&view=login&Itemid=124&l
 
 [+] Dork: site:gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-09-23 04:20:40
 https://pms.moe.sg.gov.lk/index.php/04PHhI/661184/how_to_change_your_password_in_roblox.pdf
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: google | Time: 2025-09-23 08:14:12
+
+[+] Dork: site:gov.lk filetype:pdf intext:password | Engine: duckduckgo | Time: 2025-09-23 08:14:12
+https://pms.moe.sg.gov.lk/fetch.php/83heaa/382834/HowToFindYourRobloxPassword.pdf
+https://www.ird.gov.lk/si/eServices/Lists/Registration/Attachments/9/Quick_Guide_-_TIN-PIN_SSID-PW_Maintenance+v1.0.pdf
+https://dtet.gov.lk/wp-content/uploads/2021/07/Users’-Instructions-Student-Portal.pdf
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: google | Time: 2025-09-23 08:14:44
+
+[+] Dork: site:gov.lk filetype:xls intext:"email" intext:"password" | Engine: duckduckgo | Time: 2025-09-23 08:14:44
+https://excise.gov.lk/images/bid/Set01upto2025.02.14.xls
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: google | Time: 2025-09-23 08:14:55
+
+[+] Dork: site:gov.lk filetype:doc intext:confidential | Engine: duckduckgo | Time: 2025-09-23 08:14:55
+http://www.gic.gov.lk/gic/pdf/FIR.doc
+https://www.aidscontrol.gov.lk/images/circulars/protocol_hiv_testing_for_central_opd_number.doc
