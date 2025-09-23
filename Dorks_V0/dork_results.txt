@@ -28,3 +28,8 @@ https://sltda.gov.lk/storage/common_media/855622eab10500b406e5a2e0cb2945b5.pdf
 [+] Dork: site:.gov.lk intext:"username" | Engine: duckduckgo | Time: 2025-07-12 21:36:31
 http://www.ndrsc.gov.lk/web/index.php?option=com_user&view=remind&lang=en
 https://samurdhi.gov.lk/web/index.php/en/component/user/remind.html
+
+[+] Dork: gov.lk | Engine: google | Time: 2025-09-23 08:17:17
+
+[+] Dork: gov.lk | Engine: duckduckgo | Time: 2025-09-23 08:17:17
+http://gov.lk/

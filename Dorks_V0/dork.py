@@ -101,5 +101,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-# import send_email
-# send_email.send_email()
+import send_email
+send_email.send_email()
