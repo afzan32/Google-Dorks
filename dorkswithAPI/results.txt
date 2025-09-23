@@ -179,3 +179,10 @@ https://auditorgeneral.gov.lk/web/index.php/en/login
 [+] Dork: site:gov.lk inurl:login | Engine: bing | Time: 2025-09-12 08:38:13
 
 [+] Dork: site:gov.lk inurl:login | Engine: yahoo | Time: 2025-09-12 08:38:13
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: google | Time: 2025-09-23 08:31:54
+https://lgd.cp.gov.lk/download/lgdcp_financial_regulations_si.pdf
+https://sltda.gov.lk/storage/common_media/dfc25feef981548e2a3c49e628acf620.pdf
+https://survey.gov.lk/sdweb/pdf/download/publications/Mapping_Manual.pdf
+
+[+] Dork: site:gov.lk filetype:pdf | Engine: duckduckgo | Time: 2025-09-23 08:31:54
