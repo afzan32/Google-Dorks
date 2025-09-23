@@ -1,0 +1,10 @@
+filetype:env DB_PASSWORD
+filetype:sql "password"
+filetype:log intext:"error"
+filetype:conf "db_user"
+filetype:bak "admin"
+filetype:ini "smtp"
+filetype:xml "credentials"
+filetype:json "token"
+filetype:yaml "secret"
+filetype:cfg intext:"password"

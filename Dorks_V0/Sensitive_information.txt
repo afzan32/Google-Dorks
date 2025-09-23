@@ -1,0 +1,10 @@
+intext:"DB_PASSWORD"
+intext:"mysql password"
+intext:"private key"
+intitle:"index of" "credentials"
+intext:"ftp password"
+intext:"admin password"
+intext:"password=" filetype:env
+filetype:log intext:"password"
+intext:"Authorization: Basic"
+intext:"Token key"

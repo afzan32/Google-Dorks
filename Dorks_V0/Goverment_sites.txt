@@ -1,0 +1,10 @@
+site:.gov inurl:login
+site:.mil filetype:pdf
+site:.gov intext:"username"
+site:.gov filetype:xls
+site:.gov filetype:doc
+site:.gov inurl:admin
+site:.gov intitle:"index of"
+site:.mil intext:"confidential"
+site:.gov filetype:sql
+site:.gov filetype:xml

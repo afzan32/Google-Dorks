@@ -1,0 +1,10 @@
+inurl:admin
+inurl:admin/login
+intitle:"Admin Login"
+inurl:login.jsp
+inurl:login.php
+site:.edu inurl:login
+intitle:"admin panel"
+inurl:"cpanel" "login"
+inurl:wp-login.php
+inurl:login.cgi
